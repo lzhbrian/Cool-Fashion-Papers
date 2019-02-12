@@ -14,14 +14,14 @@ __TOC__
     * [Forecast](#forecast)
 * [Related Events](#related-events)
 * [Datasets](#datasets)
-* [Other Related Resources](#other-related-resources)
+* [Other Useful Resources](#other-useful-resources)
 
 
 
 
 ## Papers
 ### Synthesis
-| Paper | Publication | Paper | Link |
+| Title | Publication | Paper | Link |
 | ----- | ----------- | ----- | ---- |
 | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
 | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
@@ -36,7 +36,7 @@ __TOC__
 | Be Your Own Prada: Fashion Synthesis with Structral Coherence. | ICCV 2017 | [[1710.07346]](https://arxiv.org/abs/1710.07346) | [[project]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/) |
 | The Conditional Analogy GAN: Swapping Fashion Articles on People Images | ICCVW 2017 | [[1709.04695]](https://arxiv.org/abs/1709.04695) |  |
 ### Classification
-| Paper | Publication | Paper | Link |
+| Title | Publication | Paper | Link |
 | ----- | ----------- | ----- | ---- |
 | Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification | CVPR 2018 | [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf) |  |
 | FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe | KDDW 2017 | [[1710.09788]](https://arxiv.org/abs/1710.09788) | [[project]](https://fashionbrain-project.eu/) |
@@ -44,7 +44,7 @@ __TOC__
 | Fashion Landmark Detection in the Wild | ECCV 2016 | [[1608.03049]](https://arxiv.org/abs/1608.03049) | [[liuziwei7/fashion-landmarks]](https://github.com/liuziwei7/fashion-landmarks) |
 | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations | CVPR 2016 | [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) | [[project]](https://liuziwei7.github.io/projects/DeepFashion.html) |
 ### Recommendation
-| Paper | Publication | Paper | Link |
+| Title | Publication | Paper | Link |
 | ----- | ----------- | ----- | ---- |
 | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
 | Learning Type-Aware Embeddings for Fashion Compatibility | ECCV 2018 | [[1803.09196]](https://arxiv.org/abs/1803.09196) |  |
@@ -52,7 +52,7 @@ __TOC__
 | Deep Cross-Domain Fashion Recommendation | RecSys 2017 | [[paper]](https://dl.acm.org/citation.cfm?id=3109861) |  |
 | Learning Fashion Compatibility with Bidirectional LSTMs | MM 2017 | [[1707.05691]](https://arxiv.org/abs/1707.05691) | [[xthan/polyvore]](https://github.com/xthan/polyvore) |
 ### Forecast
-| Paper | Publication | Paper | Link |
+| Title | Publication | Paper | Link |
 | ----- | ----------- | ----- | ---- |
 | Understanding Fashionability: What drives sales of a style? | KDDW 2018 | [[1806.11424]](https://arxiv.org/abs/1806.11424) |  |
 | Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product | KDDW 2017 | [[paper]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf) |  |
@@ -96,11 +96,11 @@ __TOC__
 
 
 
-## Other Related Resources
+## Other Useful Resources
 
-1. [[lzhbrian/image-to-image-papers]](https://github.com/lzhbrian/image-to-image-papers)
+1. [[ayushidalmia/awesome-fashion-ai]](https://github.com/ayushidalmia/awesome-fashion-ai)
 
-2. [[ayushidalmia/awesome-fashion-ai]](https://github.com/ayushidalmia/awesome-fashion-ai)
+2. [[lzhbrian/image-to-image-papers]](https://github.com/lzhbrian/image-to-image-papers)
 
 
 
