@@ -1,0 +1,6 @@
+title,date,paper_link,project_link,publication
+Deep Cross-Domain Fashion Recommendation,201708,https://dl.acm.org/citation.cfm?id=3109861,,RecSys 2017
+CRAFT: Complementary Recommendations Using Adversarial Feature Transformer,201804,https://arxiv.org/abs/1804.10871,,ECCVW 2018
+Learning Type-Aware Embeddings for Fashion Compatibility,201803,https://arxiv.org/abs/1803.09196,,ECCV 2018
+Learning Fashion Compatibility with Bidirectional LSTMs,201707,https://arxiv.org/abs/1707.05691,https://github.com/xthan/polyvore,MM 2017
+NeuroStylist: Neural Compatibility Modeling for Clothing Matching,201710,https://dl.acm.org/citation.cfm?id=3123314,,MM 2017
