@@ -4,7 +4,7 @@ def generate_one_table(df, fp):
 
 	df = df.sort_values(['date', 'paper_link'], ascending=False).reset_index(drop=True)
 
-	print('| Paper | Publication | Paper | Link |', file=fp)
+	print('| Title | Publication | Paper | Link |', file=fp)
 	print('| ----- | ----------- | ----- | ---- |', file=fp)
 
 	length = len(df['date'])
