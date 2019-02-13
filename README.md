@@ -31,6 +31,7 @@ __TOC__
 | SwapNet | SwapNet: Image Based Garment Transfer | ECCV 2018 | [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf) |  |
 | FiLMedGAN | Language Guided Fashion Image Manipulation with Feature-wise Transformations | ECCVW 2018 | [[1808.04000]](https://arxiv.org/abs/1808.04000) |  |
 | CP-VITON | Toward Characteristic-Preserving Image-based Virtual Try-On Network | ECCV 2018 | [[1807.07688]](https://arxiv.org/abs/1807.07688) | [[sergeywong/cp-vton]](https://github.com/sergeywong/cp-vton) |
+|  | Disentangling Multiple Conditional Inputs in GANs | ECCVW 2018 | [[1806.07819]](https://arxiv.org/abs/1806.07819) | [[zalandoresearch/disentangling_conditional_gans]](https://github.com/zalandoresearch/disentangling_conditional_gans) |
 | DesIGN | DesIGN: Design Inspiration from Generative Networks | ECCVW 2018 | [[1804.00921]](https://arxiv.org/abs/1804.00921) |  |
 | VITON | VITON: An Image-based Virtual Try-on Network | CVPR 2018 | [[1711.08447]](https://arxiv.org/abs/1711.08447) | [[xthan/VITON]](https://github.com/xthan/VITON) |
 | DVBPR | Visually-Aware Fashion Recommendation and Design with Generative Image Models | ICDM 2017 | [[1711.02231]](https://arxiv.org/abs/1711.02231) | [[kang205/DVBPR]](https://github.com/kang205/DVBPR) |
@@ -39,6 +40,7 @@ __TOC__
 ### Classification
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+|  | Brand > Logo: Visual Analysis of Fashion Brands | ECCVW 2018 | [[1810.09941]](https://arxiv.org/abs/1810.09941) |  |
 | BCRNN | Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification | CVPR 2018 | [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf) |  |
 | FashionBrain | FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe | KDDW 2017 | [[1710.09788]](https://arxiv.org/abs/1710.09788) | [[project]](https://fashionbrain-project.eu/) |
 |  | Automatic Spatially-aware Fashion Concept Discovery | ICCV 2017 | [[1708.01311]](https://arxiv.org/abs/1708.01311) | [[xthan/fashion-200k]](https://github.com/xthan/fashion-200k) |

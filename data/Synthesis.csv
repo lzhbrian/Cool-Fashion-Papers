@@ -1,4 +1,5 @@
 model,title,date,paper_link,project_link,publication
+,Disentangling Multiple Conditional Inputs in GANs,201806,https://arxiv.org/abs/1806.07819,https://github.com/zalandoresearch/disentangling_conditional_gans,ECCVW 2018
 FiNet,Compatible and Diverse Fashion Image Inpainting,201902,https://arxiv.org/abs/1902.01096,,
 PIVTONS,PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion,201809,https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf,https://winstonhsu.info/pubs/pivtons-virtual-try-on-shoe/,ACCV 2018
 CP-VITON,Toward Characteristic-Preserving Image-based Virtual Try-On Network,201806,https://arxiv.org/abs/1807.07688,https://github.com/sergeywong/cp-vton,ECCV 2018
