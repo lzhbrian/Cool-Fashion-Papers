@@ -1,6 +1,6 @@
-title,date,paper_link,project_link,publication
-DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations,201606,http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf,https://liuziwei7.github.io/projects/DeepFashion.html,CVPR 2016
-Fashion Landmark Detection in the Wild,201608,https://arxiv.org/abs/1608.03049,https://github.com/liuziwei7/fashion-landmarks,ECCV 2016
-Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification,201806,http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf,,CVPR 2018
-Automatic Spatially-aware Fashion Concept Discovery,201708,https://arxiv.org/abs/1708.01311,https://github.com/xthan/fashion-200k,ICCV 2017
-FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe,201710,https://arxiv.org/abs/1710.09788,https://fashionbrain-project.eu/,KDDW 2017
+model,title,date,paper_link,project_link,publication
+FashionNet,DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations,201606,http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf,https://liuziwei7.github.io/projects/DeepFashion.html,CVPR 2016
+DFA,Fashion Landmark Detection in the Wild,201608,https://arxiv.org/abs/1608.03049,https://github.com/liuziwei7/fashion-landmarks,ECCV 2016
+BCRNN,Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification,201806,http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf,,CVPR 2018
+,Automatic Spatially-aware Fashion Concept Discovery,201708,https://arxiv.org/abs/1708.01311,https://github.com/xthan/fashion-200k,ICCV 2017
+FashionBrain,FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe,201710,https://arxiv.org/abs/1710.09788,https://fashionbrain-project.eu/,KDDW 2017
