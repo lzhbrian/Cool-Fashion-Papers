@@ -1,5 +1,5 @@
 # Cool Fashion Papers 👔👗🕶️🎩
-__Cool Fashion Related Papers and Resources (datasets, conference, workshops, ...).__
+__Cool Fashion Related Papers and Resources (companies, datasets, conference, workshops, ...).__
 
 Papers are ordered in arXiv first version submitting time (if applicable).
 
