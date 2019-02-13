@@ -20,7 +20,7 @@ def generate_one_table(df, fp):
 		project = '[[project]](%s)' % inst['project_link'] if not pd.isna(inst['project_link']) else ''
 		if project and 'github.com' in inst['project_link']:
 			parts = inst['project_link'].split('/')
-			project = '[[%s]](%s)' % ('/'.join([parts[-2], parts[-1]]), inst['project_link'])
+			project = '[[%s]](%s)' % (' / '.join([parts[-2], parts[-1]]), inst['project_link'])
 
 		output_str = '| %s | %s | %s | %s | %s |' % (
 			model,
