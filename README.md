@@ -42,6 +42,7 @@ __TOC__
 | ----- | ----- | ----------- | ----- | ---- |
 |  | Brand > Logo: Visual Analysis of Fashion Brands | ECCVW 2018 | [[1810.09941]](https://arxiv.org/abs/1810.09941) |  |
 | BCRNN | Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification | CVPR 2018 | [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf) |  |
+|  | Studio2Shop: from studio photo shoots to fashion articles | ICPRAM 2018 | [[1807.00556]](https://arxiv.org/abs/1807.00556) |  |
 | FashionBrain | FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe | KDDW 2017 | [[1710.09788]](https://arxiv.org/abs/1710.09788) | [[project]](https://fashionbrain-project.eu/) |
 |  | Automatic Spatially-aware Fashion Concept Discovery | ICCV 2017 | [[1708.01311]](https://arxiv.org/abs/1708.01311) | [[xthan / fashion-200k]](https://github.com/xthan/fashion-200k) |
 | DFA | Fashion Landmark Detection in the Wild | ECCV 2016 | [[1608.03049]](https://arxiv.org/abs/1608.03049) | [[liuziwei7 / fashion-landmarks]](https://github.com/liuziwei7/fashion-landmarks) |
@@ -53,7 +54,9 @@ __TOC__
 |  | Learning Type-Aware Embeddings for Fashion Compatibility | ECCV 2018 | [[1803.09196]](https://arxiv.org/abs/1803.09196) |  |
 | NeuroStylist | NeuroStylist: Neural Compatibility Modeling for Clothing Matching | MM 2017 | [[paper]](https://dl.acm.org/citation.cfm?id=3123314) |  |
 |  | Deep Cross-Domain Fashion Recommendation | RecSys 2017 | [[paper]](https://dl.acm.org/citation.cfm?id=3109861) |  |
+|  | An LSTM-Based Dynamic Customer Model for Fashion Recommendation | RecSys 2017 | [[1708.07347]](https://arxiv.org/abs/1708.07347) |  |
 |  | Learning Fashion Compatibility with Bidirectional LSTMs | MM 2017 | [[1707.05691]](https://arxiv.org/abs/1707.05691) | [[xthan / polyvore]](https://github.com/xthan/polyvore) |
+|  | Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping | KDD 2016 | [[1609.02489]](https://arxiv.org/abs/1609.02489) |  |
 ### Forecast
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |

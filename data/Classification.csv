@@ -5,3 +5,4 @@ DFA,Fashion Landmark Detection in the Wild,201608,https://arxiv.org/abs/1608.030
 BCRNN,Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification,201806,http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf,,CVPR 2018
 ,Automatic Spatially-aware Fashion Concept Discovery,201708,https://arxiv.org/abs/1708.01311,https://github.com/xthan/fashion-200k,ICCV 2017
 FashionBrain,FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe,201710,https://arxiv.org/abs/1710.09788,https://fashionbrain-project.eu/,KDDW 2017
+,Studio2Shop: from studio photo shoots to fashion articles,201801,https://arxiv.org/abs/1807.00556,,ICPRAM 2018
