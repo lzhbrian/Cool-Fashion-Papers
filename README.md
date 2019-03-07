@@ -24,6 +24,7 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |
 | FiNet | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
 | M2E-Try On Net | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
 | FashionGAN | FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets | CG Forum 2018 | [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552) |  |
