@@ -24,6 +24,7 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | arXiv | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
 | MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |
 | FiNet | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
 | M2E-Try On Net | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
@@ -41,6 +42,7 @@ __TOC__
 ### Classification
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| DeepFashion2 | DeepFashion2: A Versatile Benchmark for Detection Pose Estimation Segmentation and Re-Identification of Clothing Images | CVPR 2019 | [[1901.07973]](https://arxiv.org/abs/1901.07973) | [[switchablenorms / DeepFashion2]](https://github.com/switchablenorms/DeepFashion2) |
 |  | Brand > Logo: Visual Analysis of Fashion Brands | ECCVW 2018 | [[1810.09941]](https://arxiv.org/abs/1810.09941) |  |
 | BCRNN | Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification | CVPR 2018 | [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf) |  |
 |  | Studio2Shop: from studio photo shoots to fashion articles | ICPRAM 2018 | [[1807.00556]](https://arxiv.org/abs/1807.00556) |  |
@@ -51,6 +53,7 @@ __TOC__
 ### Recommendation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+|  | Aesthetic-based Clothing Recommendation | WWW 2018 | [[1809.05822]](https://arxiv.org/abs/1809.05822) |  |
 | CRAFT | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
 |  | Learning Type-Aware Embeddings for Fashion Compatibility | ECCV 2018 | [[1803.09196]](https://arxiv.org/abs/1803.09196) |  |
 | NeuroStylist | NeuroStylist: Neural Compatibility Modeling for Clothing Matching | MM 2017 | [[paper]](https://dl.acm.org/citation.cfm?id=3123314) |  |
@@ -68,7 +71,7 @@ __TOC__
 
 
 ## Related Events
-1. KDD workshop on fashion [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
+1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
 3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
@@ -76,6 +79,7 @@ __TOC__
 6. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
 7. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
 8. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+
 
 
 

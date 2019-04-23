@@ -6,3 +6,4 @@ BCRNN,Attentive Fashion Grammar Network for Fashion Landmark Detection and Cloth
 ,Automatic Spatially-aware Fashion Concept Discovery,201708,https://arxiv.org/abs/1708.01311,https://github.com/xthan/fashion-200k,ICCV 2017
 FashionBrain,FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe,201710,https://arxiv.org/abs/1710.09788,https://fashionbrain-project.eu/,KDDW 2017
 ,Studio2Shop: from studio photo shoots to fashion articles,201801,https://arxiv.org/abs/1807.00556,,ICPRAM 2018
+DeepFashion2,DeepFashion2: A Versatile Benchmark for Detection Pose Estimation Segmentation and Re-Identification of Clothing Images,201901,https://arxiv.org/abs/1901.07973,https://github.com/switchablenorms/DeepFashion2,CVPR 2019

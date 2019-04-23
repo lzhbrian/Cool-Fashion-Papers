@@ -6,3 +6,4 @@ CRAFT,CRAFT: Complementary Recommendations Using Adversarial Feature Transformer
 NeuroStylist,NeuroStylist: Neural Compatibility Modeling for Clothing Matching,201710,https://dl.acm.org/citation.cfm?id=3123314,,MM 2017
 ,Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping,201603,https://arxiv.org/abs/1609.02489,,KDD 2016
 ,An LSTM-Based Dynamic Customer Model for Fashion Recommendation,201708,https://arxiv.org/abs/1708.07347,,RecSys 2017
+,Aesthetic-based Clothing Recommendation,201809,https://arxiv.org/abs/1809.05822,,WWW 2018

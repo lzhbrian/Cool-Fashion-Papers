@@ -13,3 +13,4 @@ CAGAN,The Conditional Analogy GAN: Swapping Fashion Articles on People Images,20
 FiLMedGAN,Language Guided Fashion Image Manipulation with Feature-wise Transformations,201808,https://arxiv.org/abs/1808.04000,,ECCVW 2018
 FashionGAN,FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets,201810,https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552,,CG Forum 2018
 MG-VTON,Towards Multi-pose Guided Virtual Try-on Network,201902,https://arxiv.org/abs/1902.11026,,
+Fashion++,Fashion++: Minimal Edits for Outfit Improvement,201904,https://arxiv.org/abs/1904.09261,http://vision.cs.utexas.edu/projects/FashionPlus/,
