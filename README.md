@@ -75,20 +75,24 @@ __TOC__
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
 3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
-5. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
-6. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
-7. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
-8. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+5. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
+6. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
+7. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
+8. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
+9. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
+10. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
 
 
 
 
 ## Datasets
-1. DeepFashion Dataset [[website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-2. FashionGen [[website]](https://fashion-gen.com/)
-3. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
-4. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
-5. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
+1. Fashionpedia [[website]](https://fashionpedia.github.io/home/index.html)
+2. DeepFashion2 Dataset [[website]](<https://github.com/switchablenorms/DeepFashion2>)
+3. DeepFashion Dataset [[website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+4. FashionGen [[website]](https://fashion-gen.com/)
+5. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
+6. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
+7. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
 
 
 
