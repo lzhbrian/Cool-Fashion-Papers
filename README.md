@@ -53,6 +53,7 @@ __TOC__
 ### Recommendation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| POG | POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion | KDD 2019 | [[1905.01866]](https://arxiv.org/abs/1905.01866) |  |
 |  | Aesthetic-based Clothing Recommendation | WWW 2018 | [[1809.05822]](https://arxiv.org/abs/1809.05822) |  |
 | CRAFT | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
 |  | Learning Type-Aware Embeddings for Fashion Compatibility | ECCV 2018 | [[1803.09196]](https://arxiv.org/abs/1803.09196) |  |
@@ -72,16 +73,28 @@ __TOC__
 
 ## Related Events
 1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
-2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
-3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
-4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
-5. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
-6. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
-7. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
-8. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
-9. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
-10. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
 
+2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
+
+3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+
+4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
+
+5. SIGIR Workshop On eCommerce [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
+
+6. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
+
+7. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
+
+8. CVPR Deep Learning for Content Creation Tutorial [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
+
+9. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
+
+10. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
+
+11. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
+
+12. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
 
 
 
@@ -114,6 +127,7 @@ __TOC__
 | <img src="img/markableai.png" height="80px"> | [Markable.AI](https://markable.ai/)                          | 2016  | Recognition, Searching                      | [[2018.7 journal sentinel]](https://www.jsonline.com/story/money/business/2018/07/26/shazam-fashion-markable-app-shops-comparable-outfits/816175002/) |
 | <img src="img/tozi.png" height="50px">       | [衣呼 YIHU (TOZI)](https://www.emtailor.com/solutions)       | 2017  | 3D Modeling                                 | [[2018.9 funding]](https://www.lieyunwang.com/archives/447739) |
 | <img src="img/macty.png" height="20px">      | [macty.eu](https://www.macty.eu/)                            | 2017  | Recognition, Searching, Recommendation, NLP | [[2018.12 START IT]](https://startitkbc.prezly.com/complete-the-look-tool-macty-leverages-ai-to-revolutionise-the-fashion-industry) |
+| <img src="img/glitch.gif" height="30px">     | [glitch-ai](https://glitch-ai.com/)                          | 2019  | AI Design                                   | [2019.6 news](https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai) |
 
 
 
