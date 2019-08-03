@@ -24,6 +24,7 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| DG-Net | Joint Discriminative and Generative Learning for Person Re-identification | CVPR 2019 | [[1904.07223]](https://arxiv.org/abs/1904.07223) | [[Project]](http://zdzheng.xyz/DG-Net/) [[Paper]](https://arxiv.org/abs/1904.07223) [[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) [[Poster]](http://zdzheng.xyz/images/DGNet_poster.pdf) |
 | Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | arXiv | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
 | MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |
 | FiNet | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
