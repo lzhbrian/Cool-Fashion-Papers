@@ -74,28 +74,20 @@ __TOC__
 
 ## Related Events
 1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
-
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
-
 3. ICCV workshop on Computer Vision For Fashion [[2019]](https://sites.google.com/view/cvcreative/home) [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
-
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
-
 5. SIGIR Workshop On eCommerce [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
-
 6. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
-
 7. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
-
 8. CVPR Deep Learning for Content Creation Tutorial [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
-
-9. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
-
+9. FashionGen Challenge [[ICCVW 2019, ECCVW 2018]](https://fashion-gen.com/)
 10. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
-
 11. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
-
 12. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+13. Fashion IQ Challenge [[ICCVW 2019]](https://sites.google.com/view/lingir/fashion-iq)
+14. DeepFashion2 Challenge [[ICCVW 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
+
 
 
 
@@ -107,6 +99,7 @@ __TOC__
 5. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
 6. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
 7. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
+8. Fashion IQ [[website]](https://www.spacewu.com/posts/fashion-iq/)
 
 
 

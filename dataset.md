@@ -6,3 +6,4 @@
 5. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
 6. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
 7. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
+8. Fashion IQ [[website]](https://www.spacewu.com/posts/fashion-iq/)
