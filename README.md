@@ -24,9 +24,10 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | arXiv | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
+|  | Generating High-Resolution Fashion Model Images Wearing Custom Outfits | ICCVW 2019 | [[1908.08847]](https://arxiv.org/abs/1908.08847) |  |
+| Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | ICCV 2019 | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
 | MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |
-| FiNet | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
+| FiNet | Compatible and Diverse Fashion Image Inpainting | ICCV 2019 | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
 | M2E-Try On Net | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
 | FashionGAN | FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets | CG Forum 2018 | [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552) |  |
 | PIVTONS | PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion | ACCV 2018 | [[paper]](https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf) | [[project]](https://winstonhsu.info/pubs/pivtons-virtual-try-on-shoe/) |
@@ -76,7 +77,7 @@ __TOC__
 
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
 
-3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+3. ICCV workshop on Computer Vision For Fashion [[2019]](https://sites.google.com/view/cvcreative/home) [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
 

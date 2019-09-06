@@ -1,6 +1,6 @@
 model,title,date,paper_link,project_link,publication
 ,Disentangling Multiple Conditional Inputs in GANs,201806,https://arxiv.org/abs/1806.07819,https://github.com/zalandoresearch/disentangling_conditional_gans,ECCVW 2018
-FiNet,Compatible and Diverse Fashion Image Inpainting,201902,https://arxiv.org/abs/1902.01096,,
+FiNet,Compatible and Diverse Fashion Image Inpainting,201902,https://arxiv.org/abs/1902.01096,,ICCV 2019
 PIVTONS,PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion,201809,https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf,https://winstonhsu.info/pubs/pivtons-virtual-try-on-shoe/,ACCV 2018
 CP-VITON,Toward Characteristic-Preserving Image-based Virtual Try-On Network,201806,https://arxiv.org/abs/1807.07688,https://github.com/sergeywong/cp-vton,ECCV 2018
 DesIGN,DesIGN: Design Inspiration from Generative Networks,201804,https://arxiv.org/abs/1804.00921,,ECCVW 2018
@@ -13,4 +13,5 @@ CAGAN,The Conditional Analogy GAN: Swapping Fashion Articles on People Images,20
 FiLMedGAN,Language Guided Fashion Image Manipulation with Feature-wise Transformations,201808,https://arxiv.org/abs/1808.04000,,ECCVW 2018
 FashionGAN,FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets,201810,https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552,,CG Forum 2018
 MG-VTON,Towards Multi-pose Guided Virtual Try-on Network,201902,https://arxiv.org/abs/1902.11026,,
-Fashion++,Fashion++: Minimal Edits for Outfit Improvement,201904,https://arxiv.org/abs/1904.09261,http://vision.cs.utexas.edu/projects/FashionPlus/,
+Fashion++,Fashion++: Minimal Edits for Outfit Improvement,201904,https://arxiv.org/abs/1904.09261,http://vision.cs.utexas.edu/projects/FashionPlus/,ICCV 2019
+,Generating High-Resolution Fashion Model Images Wearing Custom Outfits,201908,https://arxiv.org/abs/1908.08847,,ICCVW 2019

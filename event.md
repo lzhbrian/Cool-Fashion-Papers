@@ -3,7 +3,7 @@
 
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
 
-3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+3. ICCV workshop on Computer Vision For Fashion [[2019]](https://sites.google.com/view/cvcreative/home) [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
 
