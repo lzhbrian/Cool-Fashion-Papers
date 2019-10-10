@@ -31,7 +31,7 @@ __TOC__
 | M2E-Try On Net | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
 | FashionGAN | FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets | CG Forum 2018 | [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552) |  |
 | PIVTONS | PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion | ACCV 2018 | [[paper]](https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf) | [[project]](https://winstonhsu.info/pubs/pivtons-virtual-try-on-shoe/) |
-| SwapNet | SwapNet: Image Based Garment Transfer | ECCV 2018 | [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf) |  |
+| SwapNet | SwapNet: Image Based Garment Transfer | ECCV 2018 | [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf) | [[andrewjong / swapnet]](https://github.com/andrewjong/SwapNet) |
 | FiLMedGAN | Language Guided Fashion Image Manipulation with Feature-wise Transformations | ECCVW 2018 | [[1808.04000]](https://arxiv.org/abs/1808.04000) |  |
 | CP-VITON | Toward Characteristic-Preserving Image-based Virtual Try-On Network | ECCV 2018 | [[1807.07688]](https://arxiv.org/abs/1807.07688) | [[sergeywong / cp-vton]](https://github.com/sergeywong/cp-vton) |
 |  | Disentangling Multiple Conditional Inputs in GANs | ECCVW 2018 | [[1806.07819]](https://arxiv.org/abs/1806.07819) | [[zalandoresearch / disentangling_conditional_gans]](https://github.com/zalandoresearch/disentangling_conditional_gans) |
