@@ -7,7 +7,7 @@ DesIGN,DesIGN: Design Inspiration from Generative Networks,201804,https://arxiv.
 DVBPR,Visually-Aware Fashion Recommendation and Design with Generative Image Models,201711,https://arxiv.org/abs/1711.02231,https://github.com/kang205/DVBPR,ICDM 2017
 VITON,VITON: An Image-based Virtual Try-on Network,201711,https://arxiv.org/abs/1711.08447,https://github.com/xthan/VITON,CVPR 2018
 FashionGAN,Be Your Own Prada: Fashion Synthesis with Structral Coherence.,201710,https://arxiv.org/abs/1710.07346,http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/,ICCV 2017
-SwapNet,SwapNet: Image Based Garment Transfer,201809,http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf,,ECCV 2018
+SwapNet,SwapNet: Image Based Garment Transfer,201809,http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf,https://github.com/andrewjong/SwapNet,ECCV 2018
 M2E-Try On Net,M2E-Try On Net: Fashion from Model to Everyone,201811,https://arxiv.org/abs/1811.08599,,
 CAGAN,The Conditional Analogy GAN: Swapping Fashion Articles on People Images,201709,https://arxiv.org/abs/1709.04695,,ICCVW 2017
 FiLMedGAN,Language Guided Fashion Image Manipulation with Feature-wise Transformations,201808,https://arxiv.org/abs/1808.04000,,ECCVW 2018
