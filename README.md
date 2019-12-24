@@ -24,6 +24,10 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+|  | DOWN TO THE LAST DETAIL: VIRTUAL TRY-ON WITH DETAIL CARVING | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) |  |
+| ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
+| FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
+|  | Virtually Trying on New Clothing with Arbitrary Poses | MM 2019 | [[paper]](https://dl.acm.org/citation.cfm?id=3350946) | [[project]](https://fashiontryon.wixsite.com/fashiontryon) |
 |  | Generating High-Resolution Fashion Model Images Wearing Custom Outfits | ICCVW 2019 | [[1908.08847]](https://arxiv.org/abs/1908.08847) |  |
 | Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | ICCV 2019 | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
 | MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |

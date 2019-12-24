@@ -15,3 +15,7 @@ FashionGAN,FashionGAN: Display your fashion design using Conditional Generative 
 MG-VTON,Towards Multi-pose Guided Virtual Try-on Network,201902,https://arxiv.org/abs/1902.11026,,
 Fashion++,Fashion++: Minimal Edits for Outfit Improvement,201904,https://arxiv.org/abs/1904.09261,http://vision.cs.utexas.edu/projects/FashionPlus/,ICCV 2019
 ,Generating High-Resolution Fashion Model Images Wearing Custom Outfits,201908,https://arxiv.org/abs/1908.08847,,ICCVW 2019
+,DOWN TO THE LAST DETAIL: VIRTUAL TRY-ON WITH DETAIL CARVING,201912,https://arxiv.org/abs/1912.06324,,
+,Virtually Trying on New Clothing with Arbitrary Poses,201910,https://dl.acm.org/citation.cfm?id=3350946,https://fashiontryon.wixsite.com/fashiontryon,MM 2019
+FW-GAN,FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on,201911,http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf,,ICCV 2019
+ClothFlow,ClothFlow: A Flow-Based Model for Clothed Person Generation,201911,http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf,,ICCV 2019
