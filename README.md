@@ -24,8 +24,8 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[paper]][http://openaccess.thecvf.com/content_WACV_2020/papers/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.pdf] | 
-|  | DOWN TO THE LAST DETAIL: VIRTUAL TRY-ON WITH DETAIL CARVING | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) |  |
+| SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[2001.06265]](https://arxiv.org/abs/2001.06265) |  |
+|  | Down to the Last Detail: Virtual Try-on with Detail Carving | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) | [[AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]](https://github.com/AIprogrammer/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) |
 | ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
 | FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
 |  | Virtually Trying on New Clothing with Arbitrary Poses | MM 2019 | [[paper]](https://dl.acm.org/citation.cfm?id=3350946) | [[project]](https://fashiontryon.wixsite.com/fashiontryon) |
@@ -79,19 +79,18 @@ __TOC__
 
 ## Related Events
 1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
-2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
-3. ICCV workshop on Computer Vision For Fashion [[2019]](https://sites.google.com/view/cvcreative/home) [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
-4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
-5. SIGIR Workshop On eCommerce [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
-6. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
-7. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
-8. CVPR Deep Learning for Content Creation Tutorial [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
-9. FashionGen Challenge [[ICCVW 2019, ECCVW 2018]](https://fashion-gen.com/)
-10. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
-11. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
-12. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
-13. Fashion IQ Challenge [[ICCVW 2019]](https://sites.google.com/view/lingir/fashion-iq)
-14. DeepFashion2 Challenge [[ICCVW 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
+2. Workshop on Computer Vision for Fashion, Art and Design [[CVPR 2020]](https://sites.google.com/view/cvcreative2020) [[ICCV 2019]](https://sites.google.com/view/cvcreative/home) [[ECCV 2018]](https://sites.google.com/view/eccvfashion/) [[ICCV 2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+3. NeurlPS workshop on Machine Learning for Creativity and Design [[2019]](https://neurips2019creativity.github.io/) [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
+4. SIGIR Workshop On eCommerce [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
+5. CVPR Deep Learning for Content Creation Tutorial [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
+6. iMaterialist Fashion Challenge [[CVPR 2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
+7. iDesigner Challenge [[CVPR 2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
+8. FashionGen Challenge [[ICCV 2019, ECCV 2018]](https://fashion-gen.com/)
+9. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
+10. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
+11. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+12. Fashion IQ Challenge [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0) [[ICCV 2019]](https://sites.google.com/view/lingir/fashion-iq)
+13. DeepFashion2 Challenge [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
 
 
 
@@ -126,7 +125,10 @@ __TOC__
 | <img src="img/markableai.png" height="80px"> | [Markable.AI](https://markable.ai/)                          | 2016  | Recognition, Searching                      | [[2018.7 journal sentinel]](https://www.jsonline.com/story/money/business/2018/07/26/shazam-fashion-markable-app-shops-comparable-outfits/816175002/) |
 | <img src="img/tozi.png" height="50px">       | [衣呼 YIHU (TOZI)](https://www.emtailor.com/solutions)       | 2017  | 3D Modeling                                 | [[2018.9 funding]](https://www.lieyunwang.com/archives/447739) |
 | <img src="img/macty.png" height="20px">      | [macty.eu](https://www.macty.eu/)                            | 2017  | Recognition, Searching, Recommendation, NLP | [[2018.12 START IT]](https://startitkbc.prezly.com/complete-the-look-tool-macty-leverages-ai-to-revolutionise-the-fashion-industry) |
-| <img src="img/glitch.gif" height="30px">     | [glitch-ai](https://glitch-ai.com/)                          | 2019  | AI Design                                   | [2019.6 news](https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai) |
+|                                              | [极睿 infimind](http://infimind.com/)                        | 2017  |                                             |                                                              |
+|                                              | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  |                                             |                                                              |
+| <img src="img/glitch.gif" height="30px">     | [glitch-ai](https://glitch-ai.com/)                          | 2019  | AI Design                                   | [[2019.6 news]](https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai) |
+| <img src="img/stylingai.png" height="30px">  | [深尚科技 StylingAI](https://shenshangtech.com/)             | 2019  | AI Design                                   | [[2020.1 news]](https://36kr.com/p/5281004)                  |
 
 
 
