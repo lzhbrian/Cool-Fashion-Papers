@@ -24,6 +24,7 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[paper]][http://openaccess.thecvf.com/content_WACV_2020/papers/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.pdf] | 
 |  | DOWN TO THE LAST DETAIL: VIRTUAL TRY-ON WITH DETAIL CARVING | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) |  |
 | ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
 | FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
