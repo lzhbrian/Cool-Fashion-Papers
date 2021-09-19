@@ -39,6 +39,7 @@ def papers(fp, file_list):
 		df = pd.read_csv('data/' + filename)
 		print('### %s' % (filename.split('.')[0]), file=fp)
 		generate_one_table(df, fp)
+		print('\n\n', file=fp)
 
 
 if __name__ == '__main__':

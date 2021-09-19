@@ -20,3 +20,9 @@ Fashion++,Fashion++: Minimal Edits for Outfit Improvement,201904,https://arxiv.o
 FW-GAN,FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on,201911,http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf,,ICCV 2019
 ClothFlow,ClothFlow: A Flow-Based Model for Clothed Person Generation,201911,http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf,,ICCV 2019
 SieveNet,SieveNet: A Unified Framework for Robust Image-based Virtual Try-On,202001,https://arxiv.org/abs/2001.06265,,WACV 2020
+Pose with style,Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN,202109,https://arxiv.org/abs/2109.06166,https://pose-with-style.github.io/,SIGGRAPH ASIA 2021
+VITON-HD,VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization,202103,https://arxiv.org/abs/2103.16874,https://github.com/shadow2496/VITON-HD,CVPR 2021
+DCTON,Disentangled Cycle Consistency for Highly-realistic Virtual Try-On,202103,https://arxiv.org/abs/2103.09479,https://github.com/ChongjianGE/DCTON,CVPR 2021
+CIT,CIT: Cloth Interactive Transformer for Virtual Try-On,202104,https://arxiv.org/abs/2104.05519,https://github.com/Amazingren/CIT,
+PF-AFN,Parser-Free Virtual Try-on via Distilling Appearance Flows,202103,https://arxiv.org/abs/2103.04559,https://github.com/geyuying/PF-AFN,CVPR 2021
+

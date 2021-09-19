@@ -8,3 +8,4 @@ NeuroStylist,NeuroStylist: Neural Compatibility Modeling for Clothing Matching,2
 ,An LSTM-Based Dynamic Customer Model for Fashion Recommendation,201708,https://arxiv.org/abs/1708.07347,,RecSys 2017
 ,Aesthetic-based Clothing Recommendation,201809,https://arxiv.org/abs/1809.05822,,WWW 2018
 POG,POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion,201905,https://arxiv.org/abs/1905.01866,,KDD 2019
+,Semi-Supervised Visual Representation Learning for Fashion Compatibility,202109,https://arxiv.org/abs/2109.08052,,RecSys 2021

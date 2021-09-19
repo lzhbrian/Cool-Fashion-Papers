@@ -24,7 +24,12 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[2001.06265]](https://arxiv.org/abs/2001.06265) | [[levindabhi / SieveNet]](https://github.com/levindabhi/SieveNet) |
+| Pose with style | Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN | SIGGRAPH ASIA 2021 | [[2109.06166]](https://arxiv.org/abs/2109.06166) | [[project]](https://pose-with-style.github.io/) |
+| CIT | CIT: Cloth Interactive Transformer for Virtual Try-On | arXiv | [[2104.05519]](https://arxiv.org/abs/2104.05519) | [[Amazingren / CIT]](https://github.com/Amazingren/CIT) |
+| VITON-HD | VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization | CVPR 2021 | [[2103.16874]](https://arxiv.org/abs/2103.16874) | [[shadow2496 / VITON-HD]](https://github.com/shadow2496/VITON-HD) |
+| DCTON | Disentangled Cycle Consistency for Highly-realistic Virtual Try-On | CVPR 2021 | [[2103.09479]](https://arxiv.org/abs/2103.09479) | [[ChongjianGE / DCTON]](https://github.com/ChongjianGE/DCTON) |
+| PF-AFN | Parser-Free Virtual Try-on via Distilling Appearance Flows | CVPR 2021 | [[2103.04559]](https://arxiv.org/abs/2103.04559) | [[geyuying / PF-AFN]](https://github.com/geyuying/PF-AFN) |
+| SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[2001.06265]](https://arxiv.org/abs/2001.06265) |  |
 |  | Down to the Last Detail: Virtual Try-on with Detail Carving | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) | [[AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]](https://github.com/AIprogrammer/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) |
 | ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
 | FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
@@ -45,6 +50,9 @@ __TOC__
 | DVBPR | Visually-Aware Fashion Recommendation and Design with Generative Image Models | ICDM 2017 | [[1711.02231]](https://arxiv.org/abs/1711.02231) | [[kang205 / DVBPR]](https://github.com/kang205/DVBPR) |
 | FashionGAN | Be Your Own Prada: Fashion Synthesis with Structral Coherence. | ICCV 2017 | [[1710.07346]](https://arxiv.org/abs/1710.07346) | [[project]](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/) |
 | CAGAN | The Conditional Analogy GAN: Swapping Fashion Articles on People Images | ICCVW 2017 | [[1709.04695]](https://arxiv.org/abs/1709.04695) |  |
+
+
+
 ### Classification
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
@@ -56,9 +64,13 @@ __TOC__
 |  | Automatic Spatially-aware Fashion Concept Discovery | ICCV 2017 | [[1708.01311]](https://arxiv.org/abs/1708.01311) | [[xthan / fashion-200k]](https://github.com/xthan/fashion-200k) |
 | DFA | Fashion Landmark Detection in the Wild | ECCV 2016 | [[1608.03049]](https://arxiv.org/abs/1608.03049) | [[liuziwei7 / fashion-landmarks]](https://github.com/liuziwei7/fashion-landmarks) |
 | FashionNet | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations | CVPR 2016 | [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) | [[project]](https://liuziwei7.github.io/projects/DeepFashion.html) |
+
+
+
 ### Recommendation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+|  | Semi-Supervised Visual Representation Learning for Fashion Compatibility | RecSys 2021 | [[2109.08052]](https://arxiv.org/abs/2109.08052) |  |
 | POG | POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion | KDD 2019 | [[1905.01866]](https://arxiv.org/abs/1905.01866) |  |
 |  | Aesthetic-based Clothing Recommendation | WWW 2018 | [[1809.05822]](https://arxiv.org/abs/1809.05822) |  |
 | CRAFT | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
@@ -68,12 +80,18 @@ __TOC__
 |  | An LSTM-Based Dynamic Customer Model for Fashion Recommendation | RecSys 2017 | [[1708.07347]](https://arxiv.org/abs/1708.07347) |  |
 |  | Learning Fashion Compatibility with Bidirectional LSTMs | MM 2017 | [[1707.05691]](https://arxiv.org/abs/1707.05691) | [[xthan / polyvore]](https://github.com/xthan/polyvore) |
 |  | Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping | KDD 2016 | [[1609.02489]](https://arxiv.org/abs/1609.02489) |  |
+
+
+
 ### Forecast
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | Style Quotient | Understanding Fashionability: What drives sales of a style? | KDDW 2018 | [[1806.11424]](https://arxiv.org/abs/1806.11424) |  |
 | Sales Potential | Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product | KDDW 2017 | [[paper]](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf) |  |
 |  | Fashion Forward: Forecasting Visual Style in Fashion | ICCV 2017 | [[1705.06394]](https://arxiv.org/abs/1705.06394) |  |
+
+
+
 
 
 
@@ -137,7 +155,6 @@ __TOC__
 ## Other Useful Resources
 1. [[ayushidalmia/awesome-fashion-ai]](https://github.com/ayushidalmia/awesome-fashion-ai)
 2. [[lzhbrian/image-to-image-papers]](https://github.com/lzhbrian/image-to-image-papers)
-
 
 
 
